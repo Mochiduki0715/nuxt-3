@@ -25,7 +25,7 @@ yarn dev
 Build the application for production:
 
 ```bash
-npm run build
+yarn run build
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
